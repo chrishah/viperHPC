@@ -1,5 +1,5 @@
 #ignore all files
-*
+#*
 
 #except
 !.gitignore
@@ -17,3 +17,4 @@
 !*/*.sh
 !*/*.slurm
 !*/*.md
+
