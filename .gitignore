@@ -1,0 +1,19 @@
+#ignore all files
+*
+
+#except
+!.gitignore
+!*.txt
+!*.pl
+!*.py
+!*.sh
+!*.slurm
+!*.md
+#or in subdirectories
+!*/.gitignore
+!*/*.txt
+!*/*.pl
+!*/*.py
+!*/*.sh
+!*/*.slurm
+!*/*.md
